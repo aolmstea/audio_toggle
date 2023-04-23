@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  "C:\Users\alexa\Documents\Scripts\ToggleAudioSource.ps1"
