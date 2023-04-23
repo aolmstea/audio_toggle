@@ -1,0 +1,7 @@
+The ToggleAudioSource file is set to simply change my audio source from either my headphones of my external speakers. 
+
+I have the bat file reference it for a macros key. So, I just have to hit one button to switch between the two audio sources.
+
+I have it play a sound to confirm the switch has been made.
+
+If you want this to work for you, you just need to change the names of the audio sources to your own. 
